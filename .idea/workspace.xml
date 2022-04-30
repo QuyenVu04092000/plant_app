@@ -1,17 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="main.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/main.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08239927-107b-4fa7-87f0-46526e533ec3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/icons/back_arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/flower.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/heart-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/icon_2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/icon_3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/icon_4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/more.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/sun.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/user-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/bottom_img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/bottom_img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/image_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/image_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/image_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/img_main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/my_bottom_nav_bar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/home/components/body.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/home/components/featured_plants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/home/components/header_with_seachbox.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/home/components/recomend_plants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/home/components/title_with_more_btn.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/home/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plant_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/plant_app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="28TUhlVtibw0aGY72KRbKmQTsAh" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <option name="show-excluded-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\quyen\Desktop\github\plant_app\lib\screens\home" />
+      <recent name="C:\Users\quyen\Desktop\github\plant_app\assets\images" />
+      <recent name="C:\Users\quyen\Desktop\github\plant_app\assets\icons" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08239927-107b-4fa7-87f0-46526e533ec3" name="Default Changelist" comment="" />
+      <created>1651240202716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651240202716</updated>
+    </task>
+    <servers />
   </component>
   <component name="ToolWindowManager">
     <editor active="true" />
@@ -19,18 +106,16 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
     </layout>
   </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <option name="show-excluded-files" value="false" />
-      </pane>
-    </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="dart.analysis.tool.window.force.activate" value="true" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
