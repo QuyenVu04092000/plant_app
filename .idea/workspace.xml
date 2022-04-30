@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08239927-107b-4fa7-87f0-46526e533ec3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/screens/details/components/body.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/details/components/buy_and_des_btn.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/details/components/icon_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/details/components/image_and_icons.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/details/components/title_and_price.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/details/details_screen.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/components/my_bottom_nav_bar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/components/my_bottom_nav_bar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/home/components/featured_plants.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/home/components/featured_plants.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/home/components/recomend_plants.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/home/components/recomend_plants.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +63,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\quyen\Desktop\github\plant_app\lib\screens\details" />
       <recent name="C:\Users\quyen\Desktop\github\plant_app\lib\screens\home" />
       <recent name="C:\Users\quyen\Desktop\github\plant_app\assets\images" />
       <recent name="C:\Users\quyen\Desktop\github\plant_app\assets\icons" />

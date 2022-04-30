@@ -45,7 +45,7 @@ class FeaturedPlants extends StatelessWidget{
       child: Row(
         children: <Widget>[
           FeatureCard(image: "assets/images/bottom_img_1.png",press: (){},),
-          FeatureCard(image: "assets/images/bottom_img_1.png",press: (){},),
+          FeatureCard(image: "assets/images/bottom_img_2.png",press: (){},),
         ],
       ),
     );
