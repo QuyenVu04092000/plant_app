@@ -5,37 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08239927-107b-4fa7-87f0-46526e533ec3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/icons/back_arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/flower.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/heart-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/icon_2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/icon_3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/icon_4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/menu.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/more.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/search.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/sun.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/user-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/bottom_img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/bottom_img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/image_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/image_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/image_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/img_main.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/components/my_bottom_nav_bar.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/constants.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/home/components/body.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/home/components/featured_plants.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/home/components/header_with_seachbox.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/home/components/recomend_plants.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/home/components/title_with_more_btn.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/home/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plant_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/plant_app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/components/my_bottom_nav_bar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/components/my_bottom_nav_bar.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
